@@ -1,0 +1,2 @@
+Username: lina, Date of next visit: 2-3-2024, Patient diagnosis: CKD
+Username: omar, Date of next visit: 1-2-3, Patient diagnosis: nothing 
