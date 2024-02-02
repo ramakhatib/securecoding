@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 public class rama {
 
-	private static final int MAX_USERNAME_LENGTH = 10;
 	private static final int MAX_PASSWORD_LENGTH = 20;
 
 	public static void main(String[] args) {
